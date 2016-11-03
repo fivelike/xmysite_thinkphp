@@ -1,0 +1,2 @@
+# xmysite_thinkphp
+将xmysite部署到了thinkphp框架中，并添加了后台
